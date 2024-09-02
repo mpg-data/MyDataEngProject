@@ -1,0 +1,4 @@
+accidentalidad_baq:
+  api_url: https://www.datos.gov.co/resource/yb9r-2dsi.json
+  documentation: https://www.datos.gov.co/Transporte/Accidentalidad-en-Barranquilla/yb9r-2dsi/about_data
+  type: socrata_open_data_api
